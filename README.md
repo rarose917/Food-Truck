@@ -1,5 +1,5 @@
-#This application is a Food Truck application that serves coffee running on Tailwind CSS with React.
-
+# This application is a Food Truck application that serves coffee running on Tailwind CSS with Typescript
+# I found the routing method itself very unusal for anything I've really worked with. React Native + Typescript have a really unique way of handling routes and that took a few tries to understand. Everything is very reusable so it makes fixing mistakes easier but learning to use like "tabs.screen" instead of router-link or router-view was weird for me. The routing method I used was Tabs which is a file based routing system. 
 
 # Welcome to your Expo app 👋
 
